@@ -1,6 +1,6 @@
 # Interventions to control nosocomial transmission of SARS-CoV-2: a modelling study
 ## Description
-This repository contains the data, code and figures for sensitivity analyses for the manuscript "Interventions to control nosocomial transmission of SARS-CoV-2: a modelling study" by Thi Mui Pham Hannan Tahir Janneke H.H.M. van de Wijgert, Bastian Van der Roest, Pauline Ellerbroek, Marc J.M. Bonten, Martin C.J. Bootsma, and Mirjam E. Kretzschmar. 
+This repository contains the data, code and figures for sensitivity analyses for the manuscript "Interventions to control nosocomial transmission of SARS-CoV-2: a modelling study" by Thi Mui Pham, Hannan Tahir Janneke H.H.M. van de Wijgert, Bastian Van der Roest, Pauline Ellerbroek, Marc J.M. Bonten, Martin C.J. Bootsma, and Mirjam E. Kretzschmar. 
 
 ## Manuscript
 The manuscript of the study can be found [here](https://github.com/htahir2/covid_intra-hospital_model/tree/main/manuscript). The code for the model is described in the [appendix](https://github.com/htahir2/covid_intra-hospital_model/tree/main/manuscript/appendix.pdf). 
