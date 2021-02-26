@@ -1,0 +1,12 @@
+
+# abm_path_packages.R
+R file that contains all the paths and packages for subsequent files. 
+
+# abm_functions.R
+R file that contains all functions used in subsequent files.
+
+# abm_incidence_infectious.R
+Computing proportion of infectious patients per day based on estimated number of infectious individuals in the Netherlands estimated by RIVM. 
+
+# abm_hosp_incidence_NL.R
+Computing proportion of infectious patients per day stratified by age using age-stratified hospitalisation rates and age-stratified incidence rates in the Netherlands. 
