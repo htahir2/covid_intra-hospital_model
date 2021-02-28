@@ -1,0 +1,26 @@
+{
+    "id": "A2C8ACF4",
+    "path": "~/PhD/covid-19/abm/git_abm_intra-hospital/covid_intra-hospital_model/R_code/abm_path_packages.R",
+    "project_path": "abm_path_packages.R",
+    "type": "r_source",
+    "hash": "2098734781",
+    "contents": "",
+    "dirty": false,
+    "created": 1614546951717.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "9,19",
+        "scrollLine": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1614547005,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1614547005858,
+    "read_only": false,
+    "read_only_alternatives": []
+}
