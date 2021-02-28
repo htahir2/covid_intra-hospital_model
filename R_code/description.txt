@@ -1,3 +1,4 @@
+The first two files are necessary for all other files. In particular, the path is set in abm_path_packages.R
 
 # abm_path_packages.R
 R file that contains all the paths and packages for subsequent files. 
