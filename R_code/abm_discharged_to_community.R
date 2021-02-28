@@ -2,6 +2,7 @@
 # Agent-based modelling for nosocomial transmission of COVID-19
 # ----------------------------------------------------------------------------
 # Discharged patients with COVID-19
+# Used for plots in Figure 5
 # ============================================================================ #
 # Load paths, packages, and functions
 source("abm_path_packages.R")
@@ -38,10 +39,7 @@ dis_plot <- ggplot(dis_pat_df, aes(x=scenarios, y=mean, colour=scenarios)) +
   theme_publication() +
   scale_fill_manual(values=colors_all) +
   scale_x_discrete(limits = rev(levels(dis_pat_df$scenarios))) +
-  # scale_y_continuous(breaks=seq(0,1200,by=200)) + 
-  #guides(size=FALSE) + 
   theme(title = element_text(size=26), 
-        # plot.title = element_text(hjust=0.5),
         plot.title = element_blank(),
         legend.position="none",
         panel.background = element_blank(),
